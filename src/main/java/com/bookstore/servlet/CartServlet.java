@@ -12,7 +12,7 @@ import com.bookstore.dao.CartDAO;
 import com.bookstore.model.User;
 
 /**
- * Servlet implementation class CartServlet
+  implementation class CartServlet
  */
 @WebServlet("/cart")
 public class CartServlet extends HttpServlet {
