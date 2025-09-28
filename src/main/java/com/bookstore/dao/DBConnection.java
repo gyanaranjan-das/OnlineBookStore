@@ -8,8 +8,8 @@ public class DBConnection {
 
     // --- IMPORTANT: Replace with your own database details ---
     private static final String URL = "jdbc:mysql://localhost:3306/online_bookstore";
-    private static final String USER = "your_mysql_username"; // e.g., "root"
-    private static final String PASSWORD = "your_mysql_password";
+    private static final String USER = "root"; //
+    private static final String PASSWORD = "Ranjan@0000";
     
     private static Connection connection = null;
 
